@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋, I'm Vedant Madhwe</h1>
 <h3 align="center">Cyber Enthusiast: Engineering Solutions with Purpose.</h3>
-<img align="right" src="https://media.giphy.com/media/Rpl1sod1vCXK0L2SUN/giphy.gif" width="480" height="270" />
+<img align="right" src="https://media.giphy.com/media/Rpl1sod1vCXK0L2SUN/giphy.gif" width="400" height="220" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vedantmadhwe&label=Profile%20views&color=0e75b6&style=flat" alt="vedantmadhwe" /> </p>
 
 - 🔭 I’m currently working on **Cyber Security project having in-depth knowledge for Cyber Security, Firewalls, Safeguarding functionalities**
